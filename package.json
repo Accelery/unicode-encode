@@ -1,14 +1,26 @@
 {
   "name": "unicode-encode",
   "version": "1.1",
-  "description": "",
+  "description": "Easy base64 encode and decode of Unicode strings and Emojis.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": [
+    "atob",
+    "btoa",
+    "unicode",
+    "encode",
+    "emoji",
+    "decode",
+    "base64"
+  ],
+  "author": "Christophe Querton",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kertof/unicode-encode"
+  },
+  "license": "MIT",
   "dependencies": {
     "atob": "^2.1.2",
     "btoa": "^1.2.1"
