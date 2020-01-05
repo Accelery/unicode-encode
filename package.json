@@ -4,7 +4,8 @@
   "description": "Easy base64 encode and decode of Unicode strings and Emojis.",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "coverage": "nyc mocha"
   },
   "keywords": [
     "atob",
@@ -28,6 +29,7 @@
   "devDependencies": {
     "chai": "^4.2.0",
     "mocha": "^7.0.0",
+    "nyc": "^15.0.0",
     "prettier": "^1.19.1"
   }
 }
