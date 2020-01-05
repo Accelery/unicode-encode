@@ -1,7 +1,7 @@
 # Unicode Encode 👋 v1.2.0
 
 [![npm badge][2]][1]
-[![Build Status](https://travis-ci.org/kertof/unicode-encode.svg?branch=master)](https://travis-ci.org/kertof/unicode-encode)
+[![Build Status](https://travis-ci.com/kertof/unicode-encode.svg?branch=master)](https://travis-ci.com/kertof/unicode-encode)
 
 In most browsers, calling `btoa()` on a Unicode string or Emojis will cause an `InvalidCharacterError` or `DOMException` exception.
 
