@@ -29,4 +29,4 @@ atou('8J+RiyBVbmljb2RlIQ=='); // "👋 Unicode!"
 ```
 
 [1]: https://npmjs.org/package/unicode-encode
-[2]: https://nodei.co/npm/unicode-encode.png?downloads=true
+[2]: https://nodei.co/npm/unicode-encode.png?compact=true
