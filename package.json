@@ -16,10 +16,10 @@
     "decode",
     "base64"
   ],
-  "author": "Christophe Querton",
+  "author": "Accelery <team@accelery.be>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kertof/unicode-encode"
+    "url": "https://github.com/accelery/unicode-encode"
   },
   "license": "MIT",
   "dependencies": {
