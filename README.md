@@ -1,4 +1,4 @@
-# Unicode Encode 👋 v1.2.0
+# Unicode Encode 👋
 
 [![npm badge][2]][1]
 [![Build Status](https://travis-ci.com/kertof/unicode-encode.svg?branch=master)](https://travis-ci.com/kertof/unicode-encode)
