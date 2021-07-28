@@ -1,6 +1,6 @@
 {
   "name": "unicode-encode",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "Easy base64 encode and decode of Unicode strings and Emojis.",
   "main": "index.js",
   "scripts": {
