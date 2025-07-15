@@ -1,0 +1,16 @@
+# Ignore compiled output
+dist/
+
+# Ignore dependencies
+node_modules/
+
+# Ignore coverage output
+.nyc_output/
+coverage/
+
+# Ignore lock files
+package-lock.json
+yarn.lock
+
+# Ignore log files
+*.log

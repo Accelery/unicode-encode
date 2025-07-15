@@ -1,0 +1,25 @@
+# Source files
+*.ts
+!*.d.ts
+
+# Test files
+test/
+
+# Development files
+.github/
+.nyc_output/
+coverage/
+*.log
+.prettierrc
+tsconfig.json
+.gitignore
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
